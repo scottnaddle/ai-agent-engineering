@@ -1,0 +1,43 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F6F2E8"/>
+  <rect x="48" y="48" width="1504" height="804" rx="28" fill="#FFFDF8" stroke="#111111" stroke-width="6"/>
+  <text x="86" y="122" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#111111">챗봇 vs AI 에이전트</text>
+  <text x="88" y="168" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#444444">대화 중심 시스템과 목표 수행 시스템의 차이</text>
+
+  <rect x="86" y="220" width="650" height="560" rx="24" fill="#FFF4CC" stroke="#111111" stroke-width="5"/>
+  <rect x="864" y="220" width="650" height="560" rx="24" fill="#DDF4FF" stroke="#111111" stroke-width="5"/>
+
+  <text x="120" y="285" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#111111">챗봇</text>
+  <text x="902" y="285" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#111111">AI 에이전트</text>
+
+  <rect x="120" y="324" width="570" height="94" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="148" y="380" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111111">질문 → 답변</text>
+
+  <rect x="120" y="442" width="570" height="94" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="148" y="498" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111111">핵심 가치: 안내와 설명</text>
+
+  <rect x="120" y="560" width="570" height="170" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="148" y="618" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">• 대화 한 번의 품질이 중요</text>
+  <text x="148" y="658" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">• 외부 실행은 제한적</text>
+  <text x="148" y="698" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">• 대표 예: FAQ, 검색형 도우미</text>
+
+  <rect x="898" y="324" width="582" height="94" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="926" y="380" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111111">목표 → 계획 → 실행 → 검증</text>
+
+  <rect x="898" y="442" width="582" height="94" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="926" y="498" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111111">핵심 가치: 작업 완료</text>
+
+  <rect x="898" y="560" width="582" height="170" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="926" y="618" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">• 도구와 API를 호출</text>
+  <text x="926" y="658" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">• 상태와 메모리를 관리</text>
+  <text x="926" y="698" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">• 대표 예: 예약, 조사, 티켓 처리</text>
+
+  <path d="M770 500 C 815 500, 815 500, 850 500" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M832 482 L850 500 L832 518" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="786" cy="500" r="38" fill="#FF8A65" stroke="#111111" stroke-width="4"/>
+  <text x="764" y="512" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111">vs</text>
+
+  <rect x="1100" y="96" width="356" height="82" rx="16" fill="#111111"/>
+  <text x="1132" y="147" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">핵심 차이: 말하기 vs 행동하기</text>
+</svg>
