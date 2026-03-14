@@ -1,0 +1,11 @@
+{
+  "runs": [
+    {
+      "chapter_id": 6,
+      "path": "book/part-01-foundations/ch06-mcp.md",
+      "branch": "draft/ch06",
+      "commit_message": "Add draft for Chapter 06 with summary image",
+      "timestamp": "2026-03-14T22:32:46.432828+00:00"
+    }
+  ]
+}
