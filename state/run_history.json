@@ -1,0 +1,18 @@
+{
+  "runs": [
+    {
+      "chapter_id": 1,
+      "path": "book/part-01-foundations/ch01-ai-paradigm-shift.md",
+      "branch": "draft/ch01",
+      "commit_message": "Add draft for Chapter 01",
+      "timestamp": "2026-03-14T20:06:56.869320+00:00"
+    },
+    {
+      "chapter_id": 1,
+      "path": "book/part-01-foundations/ch01-ai-paradigm-shift.md",
+      "branch": "draft/ch01",
+      "commit_message": "Revise draft for Chapter 01",
+      "timestamp": "2026-03-14T20:15:42.969114+00:00"
+    }
+  ]
+}
