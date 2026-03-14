@@ -1,0 +1,11 @@
+{
+  "runs": [
+    {
+      "chapter_id": 4,
+      "path": "book/part-01-foundations/ch04-tools.md",
+      "branch": "draft/ch04",
+      "commit_message": "Add draft for Chapter 04 with summary image",
+      "timestamp": "2026-03-14T22:32:46.363719+00:00"
+    }
+  ]
+}

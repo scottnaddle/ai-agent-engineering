@@ -1,0 +1,41 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F5EFE5"/>
+  <rect x="44" y="44" width="1512" height="812" rx="28" fill="#FFFDF9" stroke="#111111" stroke-width="6"/>
+  <text x="90" y="118" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#111111">Tool 사용</text>
+  <text x="90" y="164" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#4A4A4A">에이전트가 외부 세계를 읽고 쓰고 실행하는 인터페이스</text>
+
+  <rect x="88" y="228" width="320" height="452" rx="24" fill="#FFE8B6" stroke="#111111" stroke-width="5"/>
+  <text x="126" y="292" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#111111">목표</text>
+  <text x="126" y="354" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">사용자 요청</text>
+  <text x="126" y="396" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">현재 상태</text>
+  <text x="126" y="438" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">제약 조건</text>
+
+  <rect x="468" y="188" width="664" height="532" rx="28" fill="#DDF2FF" stroke="#111111" stroke-width="6"/>
+  <text x="710" y="258" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#111111">AGENT</text>
+  <text x="720" y="310" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#111111">+ TOOLS</text>
+
+  <rect x="532" y="360" width="236" height="92" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="585" y="416" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111111">도구 선택</text>
+
+  <rect x="832" y="360" width="236" height="92" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="885" y="416" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111111">인자 구성</text>
+
+  <rect x="532" y="494" width="536" height="116" rx="18" fill="#FFFFFF" stroke="#111111" stroke-width="4"/>
+  <text x="572" y="552" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#111111">실행 → 결과 관찰 → 상태 갱신</text>
+
+  <rect x="1194" y="228" width="318" height="452" rx="24" fill="#FFD9D9" stroke="#111111" stroke-width="5"/>
+  <text x="1240" y="292" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#111111">외부 시스템</text>
+  <text x="1236" y="354" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">검색 API</text>
+  <text x="1236" y="396" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">데이터베이스</text>
+  <text x="1236" y="438" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">캘린더/메일</text>
+  <text x="1236" y="480" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">브라우저/코드 실행</text>
+
+  <path d="M408 454 C 430 454, 442 454, 468 454" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M448 436 L468 454 L448 472" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M1132 454 C 1160 454, 1170 454, 1194 454" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1174 436 L1194 454 L1174 472" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="470" y="760" width="662" height="68" rx="16" fill="#111111"/>
+  <text x="514" y="804" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">핵심: Tool은 기능이 아니라 권한과 실행 책임을 가진 인터페이스</text>
+</svg>
