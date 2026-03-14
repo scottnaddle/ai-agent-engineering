@@ -1,0 +1,29 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F4EFE6"/>
+  <rect x="44" y="44" width="1512" height="812" rx="28" fill="#FFFDF9" stroke="#111111" stroke-width="6"/>
+  <text x="90" y="118" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#111111">에이전트의 뇌</text>
+  <text x="90" y="164" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#4A4A4A">계획, 추론, 도구 선택, 메모리, 검증으로 이루어진 제어 구조</text>
+
+  <circle cx="800" cy="470" r="168" fill="#FFE082" stroke="#111111" stroke-width="6"/>
+  <text x="740" y="445" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#111111">AGENT</text>
+  <text x="750" y="495" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#111111">BRAIN</text>
+
+  <rect x="170" y="230" width="250" height="104" rx="20" fill="#FFD6D6" stroke="#111111" stroke-width="5"/>
+  <text x="220" y="293" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111111">계획</text>
+  <path d="M420 282 C 510 300, 560 330, 650 395" stroke="#111111" stroke-width="5"/>
+
+  <rect x="1180" y="230" width="250" height="104" rx="20" fill="#D2F0FF" stroke="#111111" stroke-width="5"/>
+  <text x="1225" y="293" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111111">도구 선택</text>
+  <path d="M1180 282 C 1090 300, 1040 330, 950 395" stroke="#111111" stroke-width="5"/>
+
+  <rect x="180" y="630" width="250" height="104" rx="20" fill="#E8D8FF" stroke="#111111" stroke-width="5"/>
+  <text x="230" y="693" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111111">메모리</text>
+  <path d="M430 682 C 520 640, 565 610, 650 545" stroke="#111111" stroke-width="5"/>
+
+  <rect x="1170" y="630" width="250" height="104" rx="20" fill="#D9FFD8" stroke="#111111" stroke-width="5"/>
+  <text x="1220" y="693" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#111111">검증</text>
+  <path d="M1170 682 C 1080 640, 1035 610, 950 545" stroke="#111111" stroke-width="5"/>
+
+  <rect x="648" y="742" width="304" height="82" rx="18" fill="#111111"/>
+  <text x="682" y="794" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">핵심: 모델 하나가 아니라 루프</text>
+</svg>
