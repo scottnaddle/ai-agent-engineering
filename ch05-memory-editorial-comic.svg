@@ -1,0 +1,37 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F5EFE5"/>
+  <rect x="44" y="44" width="1512" height="812" rx="28" fill="#FFFDF9" stroke="#111111" stroke-width="6"/>
+  <text x="90" y="118" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#111111">Memory 시스템</text>
+  <text x="90" y="164" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#4A4A4A">단기 문맥, 장기 선호, 작업 상태, 검색 지식을 연결하는 계층</text>
+
+  <rect x="114" y="250" width="300" height="400" rx="24" fill="#FFE4A8" stroke="#111111" stroke-width="5"/>
+  <text x="160" y="316" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#111111">단기 메모리</text>
+  <text x="156" y="382" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">최근 대화</text>
+  <text x="156" y="424" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">현재 단계</text>
+  <text x="156" y="466" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">즉시 문맥</text>
+
+  <circle cx="800" cy="450" r="158" fill="#DFF1FF" stroke="#111111" stroke-width="6"/>
+  <text x="730" y="430" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#111111">AGENT</text>
+  <text x="710" y="486" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#111111">MEMORY HUB</text>
+
+  <rect x="1188" y="250" width="300" height="400" rx="24" fill="#D9FFD7" stroke="#111111" stroke-width="5"/>
+  <text x="1234" y="316" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#111111">장기 메모리</text>
+  <text x="1230" y="382" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">사용자 선호</text>
+  <text x="1230" y="424" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">반복 제약</text>
+  <text x="1230" y="466" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">프로필 정보</text>
+
+  <rect x="516" y="678" width="568" height="104" rx="20" fill="#FFD8E5" stroke="#111111" stroke-width="5"/>
+  <text x="574" y="740" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#111111">검색 + 요약 + 갱신 정책</text>
+
+  <path d="M414 450 C 520 450, 590 450, 642 450" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M620 432 L642 450 L620 468" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M958 450 C 1020 450, 1090 450, 1188 450" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1166 432 L1188 450 L1166 468" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <path d="M800 608 C 800 632, 800 648, 800 678" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M782 656 L800 678 L818 656" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="438" y="84" width="726" height="72" rx="16" fill="#111111"/>
+  <text x="484" y="130" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">핵심: 메모리는 저장소가 아니라 현재 추론에 필요한 정보를 공급하는 계층</text>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "runs": [
+    {
+      "chapter_id": 5,
+      "path": "book/part-01-foundations/ch05-memory.md",
+      "branch": "draft/ch05",
+      "commit_message": "Add draft for Chapter 05 with summary image",
+      "timestamp": "2026-03-14T22:32:46.406287+00:00"
+    }
+  ]
+}
