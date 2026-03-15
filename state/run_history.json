@@ -1,0 +1,11 @@
+{
+  "runs": [
+    {
+      "chapter_id": 7,
+      "path": "book/part-02-frameworks/ch07-claude-agent-sdk.md",
+      "branch": "draft/ch07",
+      "commit_message": "Add draft for Chapter 07 with summary image",
+      "timestamp": "2026-03-15T03:00:00+00:00"
+    }
+  ]
+}
