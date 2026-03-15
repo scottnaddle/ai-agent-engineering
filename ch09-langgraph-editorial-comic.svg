@@ -1,0 +1,38 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F5EFE5"/>
+  <rect x="44" y="44" width="1512" height="812" rx="28" fill="#FFFDF9" stroke="#111111" stroke-width="6"/>
+  <text x="88" y="118" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#111111">LangGraph</text>
+  <text x="88" y="164" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#4A4A4A">상태 그래프와 체크포인트로 장시간 에이전트 워크플로를 제어하는 프레임워크</text>
+
+  <rect x="96" y="286" width="252" height="250" rx="24" fill="#FFE6B5" stroke="#111111" stroke-width="5"/>
+  <text x="158" y="354" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#111111">상태</text>
+  <text x="132" y="418" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">입력 데이터</text>
+  <text x="132" y="458" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">중간 결과</text>
+
+  <rect x="430" y="214" width="720" height="418" rx="28" fill="#DDF2FF" stroke="#111111" stroke-width="6"/>
+  <text x="670" y="286" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#111111">StateGraph</text>
+  <rect x="530" y="350" width="180" height="88" rx="18" fill="#FFFDF9" stroke="#111111" stroke-width="4"/>
+  <text x="572" y="404" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111">노드 A</text>
+  <rect x="800" y="350" width="180" height="88" rx="18" fill="#FFFDF9" stroke="#111111" stroke-width="4"/>
+  <text x="842" y="404" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111">노드 B</text>
+  <rect x="665" y="492" width="180" height="88" rx="18" fill="#FFFDF9" stroke="#111111" stroke-width="4"/>
+  <text x="694" y="546" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111">interrupt</text>
+  <path d="M710 394 H800" stroke="#111111" stroke-width="5" stroke-linecap="round"/>
+  <path d="M778 376 L800 394 L778 412" stroke="#111111" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M890 438 L845 492" stroke="#111111" stroke-width="5" stroke-linecap="round"/>
+  <path d="M826 480 L845 492 L853 466" stroke="#111111" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="1220" y="252" width="286" height="328" rx="24" fill="#D9FFD7" stroke="#111111" stroke-width="5"/>
+  <text x="1262" y="320" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#111111">체크포인트</text>
+  <text x="1250" y="394" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">실행 저장</text>
+  <text x="1250" y="434" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">실패 후 재개</text>
+  <text x="1250" y="474" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">thread_id 추적</text>
+
+  <path d="M348 412 C390 412, 406 412, 430 412" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M408 394 L430 412 L408 430" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1150 412 C1180 412, 1198 412, 1220 412" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1198 394 L1220 412 L1198 430" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="286" y="720" width="1036" height="82" rx="16" fill="#111111"/>
+  <text x="334" y="772" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">핵심: 잘 답하는 것보다 오래 실행되고, 멈췄다가 안전하게 다시 이어지는 구조가 중요할 때 LangGraph가 빛난다</text>
+</svg>

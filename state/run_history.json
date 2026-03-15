@@ -1,0 +1,11 @@
+{
+  "runs": [
+    {
+      "chapter_id": 9,
+      "path": "book/part-02-frameworks/ch09-langgraph.md",
+      "branch": "draft/ch09",
+      "commit_message": "Add draft for Chapter 09 with summary image",
+      "timestamp": "2026-03-15T03:00:00+00:00"
+    }
+  ]
+}
