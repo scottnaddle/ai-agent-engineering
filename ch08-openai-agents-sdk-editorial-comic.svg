@@ -1,0 +1,34 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F5EFE5"/>
+  <rect x="44" y="44" width="1512" height="812" rx="28" fill="#FFFDF9" stroke="#111111" stroke-width="6"/>
+  <text x="88" y="118" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#111111">OpenAI Agents SDK</text>
+  <text x="88" y="164" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#4A4A4A">적은 핵심 추상화로 Tool · Handoff · Guardrail · Session을 묶는 프레임워크</text>
+
+  <rect x="102" y="270" width="286" height="318" rx="24" fill="#FFE6B5" stroke="#111111" stroke-width="5"/>
+  <text x="164" y="338" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#111111">입력</text>
+  <text x="146" y="402" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">사용자 요청</text>
+  <text x="146" y="442" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">대화 맥락</text>
+  <text x="146" y="482" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">세션 상태</text>
+
+  <rect x="470" y="214" width="646" height="430" rx="28" fill="#DDF2FF" stroke="#111111" stroke-width="6"/>
+  <text x="644" y="286" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#111111">Agent + Runner</text>
+  <text x="560" y="356" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#111111">Instructions · Tools · Output 생성</text>
+  <text x="560" y="406" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#111111">Handoff 또는 Agent-as-Tool</text>
+  <text x="560" y="456" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#111111">Guardrail 검사 · Interruption</text>
+  <text x="560" y="506" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#111111">Tracing · Session 저장</text>
+
+  <rect x="1198" y="246" width="304" height="358" rx="24" fill="#D9FFD7" stroke="#111111" stroke-width="5"/>
+  <text x="1270" y="316" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#111111">실행면</text>
+  <text x="1240" y="390" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">함수 Tool</text>
+  <text x="1240" y="430" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">Hosted Tool</text>
+  <text x="1240" y="470" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">MCP / 런타임 Tool</text>
+  <text x="1240" y="510" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">Specialist 에이전트</text>
+
+  <path d="M388 430 C 424 430, 438 430, 470 430" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M448 412 L470 430 L448 448" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1116 430 C 1148 430, 1164 430, 1198 430" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1176 412 L1198 430 L1176 448" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="332" y="724" width="938" height="80" rx="16" fill="#111111"/>
+  <text x="382" y="774" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">핵심: 멀티 에이전트보다 먼저 역할 경계와 Tool 실행 위치, 세션 전략을 명확히 해야 한다</text>
+</svg>
