@@ -1,0 +1,35 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#F5EFE5"/>
+  <rect x="44" y="44" width="1512" height="812" rx="28" fill="#FFFDF9" stroke="#111111" stroke-width="6"/>
+  <text x="88" y="118" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#111111">Claude Agent SDK</text>
+  <text x="88" y="164" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#4A4A4A">Claude Code의 작업형 에이전트 루프를 앱 안에서 재사용하는 SDK</text>
+
+  <rect x="98" y="256" width="320" height="348" rx="24" fill="#FFE6B5" stroke="#111111" stroke-width="5"/>
+  <text x="162" y="330" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#111111">앱 코드</text>
+  <text x="142" y="404" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">프롬프트 설정</text>
+  <text x="142" y="444" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">허용 Tool 지정</text>
+  <text x="142" y="484" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">세션 재개</text>
+  <text x="142" y="524" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">훅 연결</text>
+
+  <rect x="496" y="206" width="610" height="448" rx="28" fill="#DDF2FF" stroke="#111111" stroke-width="6"/>
+  <text x="642" y="286" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#111111">에이전트 루프</text>
+  <text x="592" y="356" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#111111">해석 → Tool 선택 → 실행 → 반영</text>
+  <text x="592" y="414" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#111111">Read · Edit · Bash · Glob · Grep</text>
+  <text x="592" y="460" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#111111">WebSearch · WebFetch</text>
+  <text x="592" y="522" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#111111">Hooks · Sessions · Streaming</text>
+
+  <rect x="1182" y="256" width="320" height="348" rx="24" fill="#D9FFD7" stroke="#111111" stroke-width="5"/>
+  <text x="1240" y="330" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#111111">실행 환경</text>
+  <text x="1232" y="404" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">파일 시스템</text>
+  <text x="1232" y="444" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">셸 명령</text>
+  <text x="1232" y="484" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">웹 검색</text>
+  <text x="1232" y="524" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#111111">사용자 정의 Tool</text>
+
+  <path d="M418 430 C 454 430, 468 430, 496 430" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M474 412 L496 430 L474 448" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1106 430 C 1134 430, 1148 430, 1182 430" stroke="#111111" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1160 412 L1182 430 L1160 448" stroke="#111111" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="378" y="728" width="844" height="76" rx="16" fill="#111111"/>
+  <text x="426" y="777" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">핵심: 생산성은 높지만 강력한 Tool을 다루므로 권한 범위와 훅 설계가 먼저다</text>
+</svg>
