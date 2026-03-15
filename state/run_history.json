@@ -1,0 +1,11 @@
+{
+  "runs": [
+    {
+      "chapter_id": 8,
+      "path": "book/part-02-frameworks/ch08-openai-agents-sdk.md",
+      "branch": "draft/ch08",
+      "commit_message": "Add draft for Chapter 08 with summary image",
+      "timestamp": "2026-03-15T03:00:00+00:00"
+    }
+  ]
+}
